@@ -19,7 +19,7 @@
 
 -- navbar.header:
 logo: $assets.files.images.logo.svg
-logoURL: /YOUR_REPOSITORY_NAME
+logoURL: /fastn-vansh
 header-item1: Home
 header-item2: About
 header-item3: Blogs
@@ -42,7 +42,7 @@ cta-item2-link: /YOUR_REPOSITORY_NAME/resume
 
 -- toast.stack:
 title: Hello, I'm aspiring fastn developer based in India
-link: https://github.com/YOUR_GITHUB_USERNAME
+link: https://github.com/clown-soul
 
 ;; -----------------------------------------------------
 ;; ***** PORTFOLIO Toast ends *****
@@ -76,7 +76,7 @@ spacing.fixed.px: 20
 
 -- lib.hero-ui-base-text-wrapper:
 firstTitle: I'm
-secondTitle: YOUR_NAME,
+secondTitle: Vansh Gupta,
 
 -- lib.hero-ui-base-text-wrapper:
 firstTitle: frontend
@@ -98,7 +98,7 @@ spacing.fixed.px: 10
 
 -- button.secondary:
 title: Hire me
-link: mailto:YOUR_EMAIL_ADDRESS
+link: mailto:vansh245gupta@gmail.com
 
 -- button.primary:
 title: Schedule a Meeting
@@ -116,7 +116,7 @@ isNewTab: true
 spacing.fixed.px: 10
 
 -- social.social-button-wrapper:
-link: https://linkedin.com/in/YOUR_LINKEDIN_USERNAME
+link: https://linkedin.com/in/Vansh Gupta
 image: $assets.files.images.linkedin.png
 
 -- social.social-button-wrapper:
